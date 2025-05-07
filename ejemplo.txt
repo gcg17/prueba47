@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esto es un conflicto
+=======
+estoy generando conflicto
+>>>>>>> segunda
